@@ -6,11 +6,11 @@
 
 - **member_card**
 
-## memder
+## member
 
 ```json
     {
-        "uid": "firebase_login",
+        "uid": firebase_login,
         "level":{
             "type": level_list,
             //type sales
